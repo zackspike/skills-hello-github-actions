@@ -5,6 +5,6 @@ on:
   permissions:
    pull-requests: write
 jobs:
-  welcoime:
+  welcome:
     name: Post welcome comment
     runs-on: ubuntu-latest
